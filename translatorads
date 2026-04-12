@@ -7,7 +7,7 @@
       "enabled": true,
       "weight": 60,
       "maxImpressions": 5000,
-      "imageUrl": "https://your-domain.com/assets/banner1.png",
+      "imageUrl": "https://cdn.web.imagine.art/imagine-frontend/assets/images/ai-image-generator-hero-image.png",
       "linkUrl": "https://sponsor-website.com/ref=myextension",
       "text": "Get 20% off using our special link!"
     },
@@ -16,7 +16,7 @@
       "enabled": true,
       "weight": 40,
       "maxImpressions": 2000,
-      "imageUrl": "https://your-domain.com/assets/promo.png",
+      "imageUrl": "https://heyvid.ai/assets/video-placeholder-MMzPkQxd.webp",
       "linkUrl": "https://chrome.google.com/webstore/detail/your-other-extension",
       "text": "Check out our new OCR tool for desktop!"
     }

@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "frequency": 0.5,
   "campaigns": [
     {
@@ -13,7 +13,7 @@
     },
     {
       "id": "github_promo",
-      "enabled": true,
+      "enabled": false,
       "weight": 40,
       "maxImpressions": 2000,
       "imageUrl": "https://heyvid.ai/assets/video-placeholder-MMzPkQxd.webp",

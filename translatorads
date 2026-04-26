@@ -1,24 +1,33 @@
 {
-  "enabled": false,
-  "frequency": 0.0,
+  "enabled": true,
+  "frequency": 0.5,
   "campaigns": [
     {
-      "id": "live_sponsor_3",
-      "enabled": false,
-      "weight": 60,
-      "maxImpressions": 5000,
-      "imageUrl": "https://cdn.web.imagine.art/imagine-frontend/assets/images/ai-image-generator-hero-image.png",
-      "linkUrl": "https://sponsor-website.com/ref=myextension",
-      "text": "Get 20% off using our special link!"
+      "id": "live_sponsor_1",
+      "enabled": true,
+      "weight": 30,
+      "maxImpressions": 2000,
+      "imageUrl": "https://res.cloudinary.com/dnna7wvtk/image/upload/q_auto/f_auto/v1777173216/VelocityType_hd4hjz.png",
+      "linkUrl": "https://velocitytype-beta.netlify.app/",
+      "text": "Learn and practice typing with fun!"
     },
     {
-      "id": "github_promo",
-      "enabled": false,
+      "id": "live_sponsor_2",
+      "enabled": true,
+      "weight": 30,
+      "maxImpressions": 2000,
+      "imageUrl": "https://res.cloudinary.com/dnna7wvtk/image/upload/q_auto/f_auto/v1777173199/VelocityTypeBN_sqqi8e.png",
+      "linkUrl": "https://velocitytype-beta.netlify.app/",
+      "text": "Learn and practice typing with fun!"
+    },
+    {
+      "id": "live_sponsor_3",
+      "enabled": true,
       "weight": 40,
       "maxImpressions": 2000,
-      "imageUrl": "https://heyvid.ai/assets/video-placeholder-MMzPkQxd.webp",
-      "linkUrl": "https://chrome.google.com/webstore/detail/your-other-extension",
-      "text": "Check out our new OCR tool for desktop!"
+      "imageUrl": "https://res.cloudinary.com/dnna7wvtk/image/upload/q_auto/f_auto/v1777173212/MasterSuite_falspn.png",
+      "linkUrl": "https://mastersuite.netlify.app/",
+      "text": "Check out our amusing algorithm visualizer!"
     }
   ]
 }

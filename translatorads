@@ -26,7 +26,7 @@
       "weight": 40,
       "maxImpressions": 2000,
       "imageUrl": "https://res.cloudinary.com/dnna7wvtk/image/upload/q_auto/f_auto/v1777173212/MasterSuite_falspn.png",
-      "linkUrl": "https://mastersuite.netlify.app/",
+      "linkUrl": "https://algo-viz-tawny.vercel.app/",
       "text": "Check out our amusing algorithm visualizer!"
     }
   ]
